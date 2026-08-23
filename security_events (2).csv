@@ -1,0 +1,501 @@
+event_id,department,event_type,severity,source
+EV0001,HR,Phishing Alert,Critical,Microsoft Sentinel
+EV0002,Customer Service,Malware Detection,Medium,Microsoft Defender
+EV0003,Claims,Privilege Escalation,Low,Microsoft Entra ID
+EV0004,Underwriting,Suspicious Login,Low,Microsoft Defender
+EV0005,Customer Service,Phishing Alert,High,Microsoft Defender
+EV0006,Customer Service,Phishing Alert,Low,Microsoft Defender
+EV0007,Operations,Malware Detection,Medium,Microsoft Entra ID
+EV0008,Claims,Suspicious Login,Low,Microsoft Sentinel
+EV0009,Operations,Unusual Network Activity,High,Microsoft Sentinel
+EV0010,Underwriting,Privilege Escalation,Critical,Microsoft Entra ID
+EV0011,Claims,Malware Detection,Medium,Microsoft Entra ID
+EV0012,IT,Privilege Escalation,Low,Microsoft Entra ID
+EV0013,Underwriting,Unusual Network Activity,High,Microsoft Entra ID
+EV0014,Finance,Malware Detection,Low,Microsoft Sentinel
+EV0015,Underwriting,Privilege Escalation,Medium,Microsoft Sentinel
+EV0016,Claims,Unusual Network Activity,Low,Microsoft Defender
+EV0017,Customer Service,Phishing Alert,Low,Microsoft Defender
+EV0018,Operations,Failed Login,Medium,Microsoft Entra ID
+EV0019,HR,Failed Login,High,Microsoft Defender
+EV0020,Finance,Unusual Network Activity,High,Microsoft Sentinel
+EV0021,Customer Service,Privilege Escalation,Low,Microsoft Sentinel
+EV0022,Underwriting,Successful Login,Critical,Microsoft Entra ID
+EV0023,Customer Service,Malware Detection,Low,Microsoft Entra ID
+EV0024,Customer Service,Failed Login,Critical,Microsoft Entra ID
+EV0025,IT,Malware Detection,High,Microsoft Entra ID
+EV0026,IT,Privilege Escalation,Medium,Microsoft Entra ID
+EV0027,Underwriting,Privilege Escalation,High,Microsoft Entra ID
+EV0028,Customer Service,Suspicious Login,High,Microsoft Sentinel
+EV0029,Risk,Failed Login,Low,Microsoft Entra ID
+EV0030,Underwriting,Privilege Escalation,High,Microsoft Defender
+EV0031,IT,Privilege Escalation,Low,Microsoft Entra ID
+EV0032,Claims,Phishing Alert,Medium,Microsoft Sentinel
+EV0033,Claims,Successful Login,Low,Microsoft Sentinel
+EV0034,Operations,Suspicious Login,High,Microsoft Defender
+EV0035,HR,Privilege Escalation,Low,Microsoft Sentinel
+EV0036,IT,Privilege Escalation,Medium,Microsoft Defender
+EV0037,Underwriting,Malware Detection,Low,Microsoft Sentinel
+EV0038,IT,Phishing Alert,Medium,Microsoft Defender
+EV0039,Risk,Privilege Escalation,Medium,Microsoft Sentinel
+EV0040,Claims,Malware Detection,Low,Microsoft Sentinel
+EV0041,Claims,Suspicious Login,Low,Microsoft Defender
+EV0042,Finance,Malware Detection,Low,Microsoft Entra ID
+EV0043,Operations,Phishing Alert,High,Microsoft Defender
+EV0044,Operations,Suspicious Login,Low,Microsoft Sentinel
+EV0045,Underwriting,Successful Login,Low,Microsoft Entra ID
+EV0046,IT,Successful Login,Medium,Microsoft Entra ID
+EV0047,Underwriting,Malware Detection,High,Microsoft Sentinel
+EV0048,Operations,Suspicious Login,Medium,Microsoft Entra ID
+EV0049,IT,Suspicious Login,Low,Microsoft Sentinel
+EV0050,Claims,Unusual Network Activity,Low,Microsoft Entra ID
+EV0051,Underwriting,Successful Login,Low,Microsoft Defender
+EV0052,Underwriting,Phishing Alert,Low,Microsoft Defender
+EV0053,Claims,Successful Login,Low,Microsoft Entra ID
+EV0054,Claims,Successful Login,Critical,Microsoft Defender
+EV0055,HR,Malware Detection,Low,Microsoft Entra ID
+EV0056,Claims,Unusual Network Activity,Low,Microsoft Defender
+EV0057,Customer Service,Unusual Network Activity,Low,Microsoft Sentinel
+EV0058,Claims,Suspicious Login,Low,Microsoft Defender
+EV0059,Customer Service,Malware Detection,Medium,Microsoft Defender
+EV0060,Operations,Suspicious Login,High,Microsoft Entra ID
+EV0061,IT,Phishing Alert,Medium,Microsoft Entra ID
+EV0062,Claims,Phishing Alert,Low,Microsoft Sentinel
+EV0063,Finance,Suspicious Login,High,Microsoft Sentinel
+EV0064,Underwriting,Successful Login,Medium,Microsoft Sentinel
+EV0065,Finance,Successful Login,Medium,Microsoft Entra ID
+EV0066,IT,Failed Login,High,Microsoft Defender
+EV0067,Finance,Suspicious Login,Low,Microsoft Defender
+EV0068,Customer Service,Successful Login,Medium,Microsoft Entra ID
+EV0069,Finance,Successful Login,Low,Microsoft Entra ID
+EV0070,Risk,Suspicious Login,Low,Microsoft Entra ID
+EV0071,Claims,Suspicious Login,Medium,Microsoft Sentinel
+EV0072,Underwriting,Unusual Network Activity,High,Microsoft Sentinel
+EV0073,IT,Phishing Alert,High,Microsoft Defender
+EV0074,Claims,Unusual Network Activity,High,Microsoft Entra ID
+EV0075,Risk,Failed Login,Low,Microsoft Defender
+EV0076,Finance,Unusual Network Activity,Medium,Microsoft Entra ID
+EV0077,IT,Phishing Alert,Medium,Microsoft Entra ID
+EV0078,Operations,Malware Detection,Low,Microsoft Sentinel
+EV0079,Claims,Successful Login,Low,Microsoft Sentinel
+EV0080,Claims,Unusual Network Activity,Low,Microsoft Defender
+EV0081,Operations,Unusual Network Activity,Critical,Microsoft Sentinel
+EV0082,Operations,Suspicious Login,Medium,Microsoft Entra ID
+EV0083,Operations,Successful Login,Medium,Microsoft Entra ID
+EV0084,Risk,Phishing Alert,Medium,Microsoft Sentinel
+EV0085,Underwriting,Suspicious Login,High,Microsoft Entra ID
+EV0086,Underwriting,Phishing Alert,Medium,Microsoft Defender
+EV0087,Risk,Unusual Network Activity,Low,Microsoft Entra ID
+EV0088,Risk,Malware Detection,Medium,Microsoft Entra ID
+EV0089,HR,Suspicious Login,Critical,Microsoft Sentinel
+EV0090,Risk,Malware Detection,Low,Microsoft Entra ID
+EV0091,Customer Service,Suspicious Login,Low,Microsoft Entra ID
+EV0092,Finance,Privilege Escalation,High,Microsoft Sentinel
+EV0093,Customer Service,Unusual Network Activity,Low,Microsoft Sentinel
+EV0094,Operations,Privilege Escalation,Low,Microsoft Sentinel
+EV0095,Finance,Failed Login,Low,Microsoft Entra ID
+EV0096,IT,Suspicious Login,Medium,Microsoft Sentinel
+EV0097,Risk,Failed Login,High,Microsoft Sentinel
+EV0098,Finance,Successful Login,Medium,Microsoft Defender
+EV0099,HR,Successful Login,Medium,Microsoft Entra ID
+EV0100,Customer Service,Unusual Network Activity,High,Microsoft Sentinel
+EV0101,HR,Privilege Escalation,Low,Microsoft Defender
+EV0102,Customer Service,Privilege Escalation,Medium,Microsoft Sentinel
+EV0103,IT,Failed Login,Medium,Microsoft Entra ID
+EV0104,Operations,Failed Login,High,Microsoft Entra ID
+EV0105,Underwriting,Failed Login,High,Microsoft Defender
+EV0106,Claims,Phishing Alert,Low,Microsoft Entra ID
+EV0107,Underwriting,Phishing Alert,Critical,Microsoft Sentinel
+EV0108,Underwriting,Unusual Network Activity,Low,Microsoft Defender
+EV0109,HR,Suspicious Login,Medium,Microsoft Entra ID
+EV0110,Finance,Phishing Alert,Medium,Microsoft Sentinel
+EV0111,IT,Privilege Escalation,Medium,Microsoft Defender
+EV0112,HR,Failed Login,Low,Microsoft Entra ID
+EV0113,Operations,Privilege Escalation,Medium,Microsoft Entra ID
+EV0114,IT,Failed Login,High,Microsoft Sentinel
+EV0115,Finance,Unusual Network Activity,Low,Microsoft Entra ID
+EV0116,Customer Service,Malware Detection,Low,Microsoft Entra ID
+EV0117,HR,Privilege Escalation,Medium,Microsoft Entra ID
+EV0118,HR,Suspicious Login,Low,Microsoft Sentinel
+EV0119,Risk,Unusual Network Activity,Low,Microsoft Defender
+EV0120,Underwriting,Malware Detection,Low,Microsoft Defender
+EV0121,Operations,Unusual Network Activity,Medium,Microsoft Defender
+EV0122,Finance,Malware Detection,Medium,Microsoft Entra ID
+EV0123,Operations,Unusual Network Activity,Medium,Microsoft Defender
+EV0124,Finance,Unusual Network Activity,Medium,Microsoft Defender
+EV0125,Underwriting,Privilege Escalation,Low,Microsoft Sentinel
+EV0126,Finance,Successful Login,Medium,Microsoft Entra ID
+EV0127,Underwriting,Privilege Escalation,High,Microsoft Sentinel
+EV0128,Underwriting,Phishing Alert,Low,Microsoft Entra ID
+EV0129,IT,Malware Detection,Medium,Microsoft Entra ID
+EV0130,Underwriting,Suspicious Login,High,Microsoft Defender
+EV0131,Claims,Phishing Alert,Low,Microsoft Sentinel
+EV0132,Operations,Failed Login,Low,Microsoft Defender
+EV0133,Claims,Privilege Escalation,Low,Microsoft Entra ID
+EV0134,Finance,Failed Login,Low,Microsoft Defender
+EV0135,Claims,Successful Login,Medium,Microsoft Defender
+EV0136,Risk,Failed Login,Medium,Microsoft Entra ID
+EV0137,Customer Service,Phishing Alert,Medium,Microsoft Entra ID
+EV0138,IT,Phishing Alert,Low,Microsoft Entra ID
+EV0139,Customer Service,Suspicious Login,Critical,Microsoft Defender
+EV0140,IT,Privilege Escalation,Medium,Microsoft Sentinel
+EV0141,Operations,Malware Detection,Low,Microsoft Sentinel
+EV0142,Risk,Privilege Escalation,High,Microsoft Entra ID
+EV0143,Operations,Successful Login,Medium,Microsoft Entra ID
+EV0144,Operations,Malware Detection,High,Microsoft Entra ID
+EV0145,Underwriting,Phishing Alert,Critical,Microsoft Sentinel
+EV0146,Underwriting,Successful Login,Low,Microsoft Defender
+EV0147,HR,Phishing Alert,Medium,Microsoft Sentinel
+EV0148,Customer Service,Malware Detection,Low,Microsoft Entra ID
+EV0149,Underwriting,Suspicious Login,Low,Microsoft Entra ID
+EV0150,HR,Successful Login,Low,Microsoft Entra ID
+EV0151,Finance,Failed Login,Low,Microsoft Sentinel
+EV0152,Finance,Malware Detection,Medium,Microsoft Entra ID
+EV0153,Claims,Suspicious Login,Low,Microsoft Entra ID
+EV0154,Finance,Failed Login,Medium,Microsoft Entra ID
+EV0155,Operations,Privilege Escalation,Medium,Microsoft Defender
+EV0156,IT,Failed Login,High,Microsoft Defender
+EV0157,Risk,Malware Detection,Low,Microsoft Sentinel
+EV0158,Customer Service,Malware Detection,Low,Microsoft Entra ID
+EV0159,HR,Privilege Escalation,Critical,Microsoft Defender
+EV0160,Underwriting,Privilege Escalation,Medium,Microsoft Defender
+EV0161,HR,Suspicious Login,Low,Microsoft Sentinel
+EV0162,HR,Unusual Network Activity,Medium,Microsoft Entra ID
+EV0163,Finance,Phishing Alert,Medium,Microsoft Entra ID
+EV0164,HR,Successful Login,Medium,Microsoft Sentinel
+EV0165,Risk,Phishing Alert,Critical,Microsoft Sentinel
+EV0166,Underwriting,Successful Login,Low,Microsoft Entra ID
+EV0167,Operations,Malware Detection,Critical,Microsoft Entra ID
+EV0168,Customer Service,Malware Detection,Low,Microsoft Entra ID
+EV0169,Customer Service,Unusual Network Activity,High,Microsoft Entra ID
+EV0170,Underwriting,Suspicious Login,Medium,Microsoft Entra ID
+EV0171,Finance,Privilege Escalation,Medium,Microsoft Defender
+EV0172,HR,Privilege Escalation,Critical,Microsoft Defender
+EV0173,Operations,Suspicious Login,High,Microsoft Entra ID
+EV0174,Claims,Phishing Alert,Critical,Microsoft Defender
+EV0175,Underwriting,Phishing Alert,Low,Microsoft Defender
+EV0176,Underwriting,Phishing Alert,Medium,Microsoft Defender
+EV0177,Underwriting,Failed Login,Low,Microsoft Entra ID
+EV0178,IT,Phishing Alert,Critical,Microsoft Defender
+EV0179,HR,Successful Login,Low,Microsoft Entra ID
+EV0180,Underwriting,Malware Detection,Medium,Microsoft Entra ID
+EV0181,Risk,Unusual Network Activity,Low,Microsoft Defender
+EV0182,Finance,Suspicious Login,Medium,Microsoft Sentinel
+EV0183,IT,Failed Login,Low,Microsoft Defender
+EV0184,Finance,Suspicious Login,Low,Microsoft Sentinel
+EV0185,Customer Service,Successful Login,High,Microsoft Defender
+EV0186,Customer Service,Privilege Escalation,Low,Microsoft Entra ID
+EV0187,Finance,Privilege Escalation,Low,Microsoft Sentinel
+EV0188,Claims,Successful Login,High,Microsoft Defender
+EV0189,IT,Suspicious Login,Low,Microsoft Entra ID
+EV0190,Customer Service,Privilege Escalation,High,Microsoft Entra ID
+EV0191,Risk,Privilege Escalation,Medium,Microsoft Sentinel
+EV0192,Risk,Privilege Escalation,High,Microsoft Entra ID
+EV0193,Finance,Failed Login,Low,Microsoft Entra ID
+EV0194,Operations,Successful Login,Low,Microsoft Sentinel
+EV0195,Risk,Malware Detection,Low,Microsoft Entra ID
+EV0196,IT,Failed Login,Low,Microsoft Sentinel
+EV0197,Finance,Failed Login,Medium,Microsoft Defender
+EV0198,Claims,Suspicious Login,Low,Microsoft Entra ID
+EV0199,Operations,Phishing Alert,Medium,Microsoft Defender
+EV0200,Claims,Successful Login,Medium,Microsoft Sentinel
+EV0201,HR,Privilege Escalation,High,Microsoft Entra ID
+EV0202,Operations,Failed Login,High,Microsoft Sentinel
+EV0203,Operations,Phishing Alert,Critical,Microsoft Defender
+EV0204,Finance,Failed Login,Low,Microsoft Sentinel
+EV0205,Claims,Privilege Escalation,Medium,Microsoft Entra ID
+EV0206,Operations,Successful Login,High,Microsoft Defender
+EV0207,HR,Failed Login,High,Microsoft Entra ID
+EV0208,Risk,Phishing Alert,Medium,Microsoft Entra ID
+EV0209,Finance,Successful Login,Low,Microsoft Entra ID
+EV0210,Finance,Unusual Network Activity,Medium,Microsoft Entra ID
+EV0211,Operations,Suspicious Login,Medium,Microsoft Sentinel
+EV0212,Claims,Privilege Escalation,Low,Microsoft Sentinel
+EV0213,Customer Service,Privilege Escalation,Medium,Microsoft Entra ID
+EV0214,Claims,Suspicious Login,Medium,Microsoft Defender
+EV0215,Risk,Failed Login,Low,Microsoft Entra ID
+EV0216,Risk,Failed Login,Low,Microsoft Entra ID
+EV0217,Operations,Malware Detection,Medium,Microsoft Entra ID
+EV0218,IT,Phishing Alert,Low,Microsoft Defender
+EV0219,IT,Unusual Network Activity,Low,Microsoft Sentinel
+EV0220,IT,Failed Login,High,Microsoft Entra ID
+EV0221,Operations,Privilege Escalation,Medium,Microsoft Sentinel
+EV0222,HR,Malware Detection,Low,Microsoft Entra ID
+EV0223,Customer Service,Successful Login,Medium,Microsoft Sentinel
+EV0224,HR,Privilege Escalation,High,Microsoft Defender
+EV0225,Finance,Phishing Alert,Low,Microsoft Defender
+EV0226,Risk,Failed Login,Low,Microsoft Sentinel
+EV0227,HR,Suspicious Login,High,Microsoft Defender
+EV0228,Claims,Privilege Escalation,Low,Microsoft Defender
+EV0229,Finance,Unusual Network Activity,Medium,Microsoft Sentinel
+EV0230,Customer Service,Successful Login,Medium,Microsoft Defender
+EV0231,HR,Successful Login,High,Microsoft Defender
+EV0232,Finance,Unusual Network Activity,Low,Microsoft Entra ID
+EV0233,Risk,Phishing Alert,Medium,Microsoft Defender
+EV0234,Claims,Successful Login,Medium,Microsoft Sentinel
+EV0235,Underwriting,Privilege Escalation,Medium,Microsoft Sentinel
+EV0236,Customer Service,Successful Login,Medium,Microsoft Defender
+EV0237,IT,Malware Detection,Low,Microsoft Defender
+EV0238,Customer Service,Failed Login,Low,Microsoft Sentinel
+EV0239,Risk,Unusual Network Activity,Medium,Microsoft Entra ID
+EV0240,Risk,Unusual Network Activity,Low,Microsoft Defender
+EV0241,HR,Phishing Alert,High,Microsoft Defender
+EV0242,Operations,Unusual Network Activity,Low,Microsoft Sentinel
+EV0243,IT,Privilege Escalation,Low,Microsoft Sentinel
+EV0244,Customer Service,Malware Detection,Critical,Microsoft Sentinel
+EV0245,Operations,Failed Login,Medium,Microsoft Sentinel
+EV0246,Underwriting,Privilege Escalation,High,Microsoft Entra ID
+EV0247,Operations,Unusual Network Activity,Medium,Microsoft Entra ID
+EV0248,Finance,Privilege Escalation,Medium,Microsoft Defender
+EV0249,Claims,Malware Detection,High,Microsoft Defender
+EV0250,Finance,Unusual Network Activity,Medium,Microsoft Entra ID
+EV0251,Underwriting,Successful Login,Medium,Microsoft Entra ID
+EV0252,Finance,Unusual Network Activity,Low,Microsoft Entra ID
+EV0253,Operations,Suspicious Login,High,Microsoft Entra ID
+EV0254,Claims,Suspicious Login,Low,Microsoft Defender
+EV0255,Customer Service,Failed Login,Medium,Microsoft Defender
+EV0256,Underwriting,Failed Login,Low,Microsoft Defender
+EV0257,Underwriting,Successful Login,Low,Microsoft Entra ID
+EV0258,IT,Successful Login,Medium,Microsoft Defender
+EV0259,HR,Suspicious Login,Low,Microsoft Entra ID
+EV0260,Risk,Unusual Network Activity,Medium,Microsoft Defender
+EV0261,Operations,Malware Detection,Medium,Microsoft Entra ID
+EV0262,Finance,Phishing Alert,Low,Microsoft Entra ID
+EV0263,Customer Service,Unusual Network Activity,Low,Microsoft Entra ID
+EV0264,Customer Service,Suspicious Login,High,Microsoft Defender
+EV0265,Underwriting,Unusual Network Activity,High,Microsoft Entra ID
+EV0266,Risk,Suspicious Login,Medium,Microsoft Defender
+EV0267,Operations,Phishing Alert,Low,Microsoft Defender
+EV0268,IT,Failed Login,High,Microsoft Sentinel
+EV0269,Customer Service,Unusual Network Activity,High,Microsoft Entra ID
+EV0270,Operations,Successful Login,Medium,Microsoft Sentinel
+EV0271,IT,Successful Login,Low,Microsoft Sentinel
+EV0272,HR,Failed Login,Medium,Microsoft Sentinel
+EV0273,HR,Suspicious Login,Medium,Microsoft Sentinel
+EV0274,HR,Suspicious Login,Low,Microsoft Sentinel
+EV0275,HR,Malware Detection,Medium,Microsoft Defender
+EV0276,HR,Suspicious Login,High,Microsoft Defender
+EV0277,IT,Successful Login,Medium,Microsoft Sentinel
+EV0278,HR,Successful Login,Low,Microsoft Defender
+EV0279,Finance,Failed Login,Medium,Microsoft Defender
+EV0280,IT,Unusual Network Activity,High,Microsoft Sentinel
+EV0281,HR,Phishing Alert,Medium,Microsoft Sentinel
+EV0282,Risk,Malware Detection,Medium,Microsoft Entra ID
+EV0283,Finance,Suspicious Login,Medium,Microsoft Sentinel
+EV0284,Underwriting,Phishing Alert,Medium,Microsoft Sentinel
+EV0285,Risk,Phishing Alert,Low,Microsoft Defender
+EV0286,Customer Service,Unusual Network Activity,Low,Microsoft Sentinel
+EV0287,HR,Failed Login,High,Microsoft Defender
+EV0288,Risk,Unusual Network Activity,Low,Microsoft Entra ID
+EV0289,HR,Phishing Alert,Medium,Microsoft Entra ID
+EV0290,Customer Service,Malware Detection,Medium,Microsoft Defender
+EV0291,IT,Phishing Alert,Low,Microsoft Entra ID
+EV0292,Operations,Suspicious Login,Medium,Microsoft Entra ID
+EV0293,Operations,Suspicious Login,Medium,Microsoft Defender
+EV0294,Risk,Malware Detection,Low,Microsoft Defender
+EV0295,HR,Successful Login,Low,Microsoft Defender
+EV0296,HR,Suspicious Login,Medium,Microsoft Entra ID
+EV0297,HR,Successful Login,Medium,Microsoft Defender
+EV0298,Underwriting,Successful Login,Low,Microsoft Entra ID
+EV0299,Claims,Privilege Escalation,Medium,Microsoft Defender
+EV0300,Claims,Unusual Network Activity,Low,Microsoft Defender
+EV0301,Claims,Failed Login,High,Microsoft Sentinel
+EV0302,Claims,Phishing Alert,High,Microsoft Defender
+EV0303,Customer Service,Successful Login,Medium,Microsoft Defender
+EV0304,Risk,Successful Login,Low,Microsoft Sentinel
+EV0305,Claims,Unusual Network Activity,Low,Microsoft Defender
+EV0306,Risk,Successful Login,Low,Microsoft Entra ID
+EV0307,IT,Phishing Alert,Medium,Microsoft Sentinel
+EV0308,Risk,Successful Login,Low,Microsoft Entra ID
+EV0309,Operations,Privilege Escalation,Medium,Microsoft Sentinel
+EV0310,Operations,Unusual Network Activity,Low,Microsoft Entra ID
+EV0311,Risk,Unusual Network Activity,High,Microsoft Sentinel
+EV0312,Finance,Successful Login,High,Microsoft Sentinel
+EV0313,Finance,Failed Login,Medium,Microsoft Entra ID
+EV0314,Finance,Unusual Network Activity,Medium,Microsoft Sentinel
+EV0315,Underwriting,Successful Login,Low,Microsoft Sentinel
+EV0316,HR,Suspicious Login,Low,Microsoft Defender
+EV0317,Claims,Unusual Network Activity,Medium,Microsoft Entra ID
+EV0318,HR,Privilege Escalation,Low,Microsoft Defender
+EV0319,HR,Malware Detection,Medium,Microsoft Entra ID
+EV0320,HR,Suspicious Login,Low,Microsoft Sentinel
+EV0321,HR,Malware Detection,Medium,Microsoft Entra ID
+EV0322,HR,Malware Detection,Low,Microsoft Entra ID
+EV0323,Underwriting,Privilege Escalation,Medium,Microsoft Sentinel
+EV0324,Customer Service,Unusual Network Activity,Medium,Microsoft Defender
+EV0325,Claims,Phishing Alert,High,Microsoft Defender
+EV0326,Risk,Unusual Network Activity,Low,Microsoft Defender
+EV0327,HR,Failed Login,Low,Microsoft Sentinel
+EV0328,Risk,Suspicious Login,Low,Microsoft Sentinel
+EV0329,Underwriting,Malware Detection,Medium,Microsoft Defender
+EV0330,IT,Privilege Escalation,Medium,Microsoft Sentinel
+EV0331,Finance,Privilege Escalation,Low,Microsoft Sentinel
+EV0332,HR,Phishing Alert,High,Microsoft Entra ID
+EV0333,Operations,Unusual Network Activity,Low,Microsoft Entra ID
+EV0334,Underwriting,Suspicious Login,High,Microsoft Defender
+EV0335,Underwriting,Successful Login,High,Microsoft Sentinel
+EV0336,Operations,Privilege Escalation,High,Microsoft Entra ID
+EV0337,Finance,Suspicious Login,Medium,Microsoft Entra ID
+EV0338,Customer Service,Failed Login,Medium,Microsoft Sentinel
+EV0339,IT,Unusual Network Activity,Medium,Microsoft Defender
+EV0340,Underwriting,Failed Login,Medium,Microsoft Entra ID
+EV0341,Finance,Privilege Escalation,Medium,Microsoft Defender
+EV0342,Finance,Malware Detection,High,Microsoft Entra ID
+EV0343,Operations,Failed Login,Medium,Microsoft Entra ID
+EV0344,Operations,Failed Login,Medium,Microsoft Entra ID
+EV0345,Finance,Unusual Network Activity,Low,Microsoft Entra ID
+EV0346,HR,Unusual Network Activity,Medium,Microsoft Defender
+EV0347,Underwriting,Malware Detection,Medium,Microsoft Sentinel
+EV0348,Finance,Malware Detection,High,Microsoft Entra ID
+EV0349,Underwriting,Unusual Network Activity,Medium,Microsoft Defender
+EV0350,Underwriting,Unusual Network Activity,Medium,Microsoft Sentinel
+EV0351,Risk,Phishing Alert,High,Microsoft Entra ID
+EV0352,Risk,Suspicious Login,Low,Microsoft Entra ID
+EV0353,Claims,Privilege Escalation,Medium,Microsoft Defender
+EV0354,Finance,Privilege Escalation,Medium,Microsoft Defender
+EV0355,Operations,Malware Detection,Medium,Microsoft Defender
+EV0356,Underwriting,Privilege Escalation,Low,Microsoft Sentinel
+EV0357,Underwriting,Suspicious Login,High,Microsoft Sentinel
+EV0358,Risk,Suspicious Login,Low,Microsoft Defender
+EV0359,Finance,Malware Detection,Low,Microsoft Entra ID
+EV0360,IT,Successful Login,Medium,Microsoft Defender
+EV0361,IT,Privilege Escalation,Low,Microsoft Defender
+EV0362,Risk,Phishing Alert,Medium,Microsoft Defender
+EV0363,Operations,Failed Login,Low,Microsoft Entra ID
+EV0364,Underwriting,Suspicious Login,High,Microsoft Entra ID
+EV0365,IT,Failed Login,Medium,Microsoft Entra ID
+EV0366,HR,Phishing Alert,Medium,Microsoft Sentinel
+EV0367,Customer Service,Privilege Escalation,High,Microsoft Sentinel
+EV0368,Risk,Unusual Network Activity,Medium,Microsoft Entra ID
+EV0369,Finance,Successful Login,Medium,Microsoft Sentinel
+EV0370,Finance,Successful Login,High,Microsoft Sentinel
+EV0371,Customer Service,Failed Login,Medium,Microsoft Entra ID
+EV0372,HR,Failed Login,Medium,Microsoft Defender
+EV0373,HR,Unusual Network Activity,Low,Microsoft Sentinel
+EV0374,IT,Suspicious Login,High,Microsoft Defender
+EV0375,Claims,Privilege Escalation,High,Microsoft Sentinel
+EV0376,Operations,Phishing Alert,High,Microsoft Defender
+EV0377,Claims,Failed Login,Medium,Microsoft Defender
+EV0378,HR,Suspicious Login,Medium,Microsoft Entra ID
+EV0379,Finance,Suspicious Login,Medium,Microsoft Defender
+EV0380,HR,Privilege Escalation,Low,Microsoft Sentinel
+EV0381,Customer Service,Successful Login,Medium,Microsoft Defender
+EV0382,IT,Malware Detection,Medium,Microsoft Entra ID
+EV0383,Finance,Phishing Alert,Low,Microsoft Sentinel
+EV0384,Claims,Failed Login,Critical,Microsoft Sentinel
+EV0385,HR,Malware Detection,Medium,Microsoft Sentinel
+EV0386,Claims,Privilege Escalation,Low,Microsoft Entra ID
+EV0387,Operations,Successful Login,Medium,Microsoft Entra ID
+EV0388,Underwriting,Successful Login,Medium,Microsoft Sentinel
+EV0389,IT,Failed Login,Low,Microsoft Sentinel
+EV0390,HR,Phishing Alert,Medium,Microsoft Defender
+EV0391,IT,Suspicious Login,Medium,Microsoft Defender
+EV0392,Finance,Phishing Alert,Medium,Microsoft Entra ID
+EV0393,IT,Successful Login,High,Microsoft Sentinel
+EV0394,IT,Privilege Escalation,Low,Microsoft Sentinel
+EV0395,Finance,Malware Detection,High,Microsoft Sentinel
+EV0396,Underwriting,Unusual Network Activity,Critical,Microsoft Sentinel
+EV0397,Operations,Suspicious Login,High,Microsoft Defender
+EV0398,IT,Privilege Escalation,Critical,Microsoft Sentinel
+EV0399,Customer Service,Phishing Alert,High,Microsoft Defender
+EV0400,Risk,Suspicious Login,Medium,Microsoft Defender
+EV0401,Claims,Failed Login,Low,Microsoft Entra ID
+EV0402,IT,Failed Login,High,Microsoft Defender
+EV0403,Risk,Malware Detection,Medium,Microsoft Sentinel
+EV0404,IT,Successful Login,High,Microsoft Defender
+EV0405,IT,Malware Detection,Low,Microsoft Sentinel
+EV0406,Finance,Failed Login,Medium,Microsoft Sentinel
+EV0407,Customer Service,Suspicious Login,Low,Microsoft Entra ID
+EV0408,HR,Successful Login,Medium,Microsoft Defender
+EV0409,Risk,Failed Login,Medium,Microsoft Sentinel
+EV0410,Claims,Phishing Alert,Medium,Microsoft Sentinel
+EV0411,IT,Failed Login,High,Microsoft Entra ID
+EV0412,HR,Successful Login,Medium,Microsoft Sentinel
+EV0413,Finance,Phishing Alert,Low,Microsoft Sentinel
+EV0414,Risk,Failed Login,Medium,Microsoft Entra ID
+EV0415,Underwriting,Malware Detection,High,Microsoft Entra ID
+EV0416,IT,Failed Login,Medium,Microsoft Defender
+EV0417,Risk,Suspicious Login,High,Microsoft Defender
+EV0418,Customer Service,Suspicious Login,High,Microsoft Entra ID
+EV0419,Operations,Suspicious Login,High,Microsoft Entra ID
+EV0420,Claims,Suspicious Login,Low,Microsoft Entra ID
+EV0421,Claims,Malware Detection,Medium,Microsoft Defender
+EV0422,Underwriting,Privilege Escalation,Medium,Microsoft Sentinel
+EV0423,Risk,Suspicious Login,Critical,Microsoft Entra ID
+EV0424,Claims,Privilege Escalation,High,Microsoft Defender
+EV0425,Customer Service,Suspicious Login,Low,Microsoft Sentinel
+EV0426,HR,Failed Login,High,Microsoft Defender
+EV0427,Risk,Malware Detection,Low,Microsoft Defender
+EV0428,Customer Service,Malware Detection,Medium,Microsoft Entra ID
+EV0429,IT,Successful Login,Low,Microsoft Defender
+EV0430,Underwriting,Malware Detection,High,Microsoft Defender
+EV0431,Claims,Unusual Network Activity,Low,Microsoft Entra ID
+EV0432,Customer Service,Failed Login,Low,Microsoft Sentinel
+EV0433,Operations,Malware Detection,Low,Microsoft Defender
+EV0434,Underwriting,Suspicious Login,Low,Microsoft Defender
+EV0435,IT,Failed Login,Medium,Microsoft Defender
+EV0436,Finance,Suspicious Login,High,Microsoft Defender
+EV0437,Customer Service,Privilege Escalation,Critical,Microsoft Sentinel
+EV0438,Claims,Phishing Alert,High,Microsoft Sentinel
+EV0439,Risk,Suspicious Login,High,Microsoft Sentinel
+EV0440,HR,Suspicious Login,Low,Microsoft Sentinel
+EV0441,Finance,Failed Login,Low,Microsoft Entra ID
+EV0442,Underwriting,Successful Login,Low,Microsoft Entra ID
+EV0443,HR,Privilege Escalation,High,Microsoft Entra ID
+EV0444,Claims,Phishing Alert,High,Microsoft Sentinel
+EV0445,Operations,Phishing Alert,Medium,Microsoft Sentinel
+EV0446,Claims,Successful Login,Critical,Microsoft Entra ID
+EV0447,Risk,Privilege Escalation,Medium,Microsoft Sentinel
+EV0448,Underwriting,Unusual Network Activity,High,Microsoft Entra ID
+EV0449,Claims,Suspicious Login,Medium,Microsoft Defender
+EV0450,HR,Failed Login,Low,Microsoft Entra ID
+EV0451,IT,Phishing Alert,Medium,Microsoft Sentinel
+EV0452,Customer Service,Phishing Alert,Low,Microsoft Entra ID
+EV0453,Risk,Malware Detection,Low,Microsoft Sentinel
+EV0454,Operations,Failed Login,High,Microsoft Sentinel
+EV0455,Risk,Phishing Alert,Low,Microsoft Defender
+EV0456,Claims,Phishing Alert,High,Microsoft Entra ID
+EV0457,Operations,Unusual Network Activity,Medium,Microsoft Defender
+EV0458,Underwriting,Phishing Alert,Medium,Microsoft Defender
+EV0459,Customer Service,Successful Login,Low,Microsoft Defender
+EV0460,Operations,Malware Detection,Low,Microsoft Sentinel
+EV0461,Customer Service,Malware Detection,Low,Microsoft Entra ID
+EV0462,Finance,Unusual Network Activity,Low,Microsoft Defender
+EV0463,HR,Privilege Escalation,Medium,Microsoft Sentinel
+EV0464,Risk,Successful Login,High,Microsoft Defender
+EV0465,IT,Suspicious Login,Medium,Microsoft Entra ID
+EV0466,IT,Phishing Alert,Critical,Microsoft Sentinel
+EV0467,Customer Service,Unusual Network Activity,Medium,Microsoft Entra ID
+EV0468,Finance,Failed Login,Low,Microsoft Defender
+EV0469,IT,Successful Login,High,Microsoft Defender
+EV0470,IT,Malware Detection,Low,Microsoft Defender
+EV0471,HR,Failed Login,Critical,Microsoft Defender
+EV0472,Operations,Failed Login,High,Microsoft Defender
+EV0473,Finance,Privilege Escalation,Medium,Microsoft Sentinel
+EV0474,Risk,Suspicious Login,High,Microsoft Entra ID
+EV0475,Operations,Successful Login,Low,Microsoft Entra ID
+EV0476,Finance,Phishing Alert,High,Microsoft Defender
+EV0477,Underwriting,Unusual Network Activity,High,Microsoft Sentinel
+EV0478,Claims,Privilege Escalation,Low,Microsoft Defender
+EV0479,Finance,Unusual Network Activity,Medium,Microsoft Sentinel
+EV0480,HR,Successful Login,Low,Microsoft Defender
+EV0481,Claims,Failed Login,Low,Microsoft Sentinel
+EV0482,Underwriting,Malware Detection,Medium,Microsoft Sentinel
+EV0483,Finance,Suspicious Login,Critical,Microsoft Entra ID
+EV0484,Customer Service,Malware Detection,High,Microsoft Sentinel
+EV0485,Customer Service,Suspicious Login,Low,Microsoft Defender
+EV0486,Finance,Suspicious Login,Low,Microsoft Entra ID
+EV0487,Claims,Suspicious Login,Low,Microsoft Sentinel
+EV0488,Claims,Malware Detection,Low,Microsoft Sentinel
+EV0489,HR,Successful Login,High,Microsoft Entra ID
+EV0490,Operations,Malware Detection,Medium,Microsoft Entra ID
+EV0491,Customer Service,Phishing Alert,Medium,Microsoft Defender
+EV0492,Underwriting,Phishing Alert,Low,Microsoft Entra ID
+EV0493,Claims,Successful Login,Medium,Microsoft Entra ID
+EV0494,Finance,Phishing Alert,High,Microsoft Defender
+EV0495,Underwriting,Unusual Network Activity,Medium,Microsoft Sentinel
+EV0496,Claims,Failed Login,High,Microsoft Sentinel
+EV0497,Risk,Failed Login,Medium,Microsoft Sentinel
+EV0498,IT,Suspicious Login,High,Microsoft Defender
+EV0499,HR,Failed Login,Low,Microsoft Defender
+EV0500,Finance,Privilege Escalation,Medium,Microsoft Defender
